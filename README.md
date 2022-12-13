@@ -1,4 +1,8 @@
 # Stock Market Prediction using Numerical and Textual Analysis
+Objective - Create a hybrid model for stock price or performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines. 
+
+<img src = "https://www.flaticon.com/free-icon/youtube_2504965">Video: [YouTube](https://www.youtube.com/watch?v=2YzfNQNjOk0)
+<img src = "https://cdn-icons-png.flaticon.com/128/174/174857.png">[LinkedIn](https://www.linkedin.com/in/aditya-gupta-aa7524201/)
 
 # The Sparks Foundation Tasks
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png> 
