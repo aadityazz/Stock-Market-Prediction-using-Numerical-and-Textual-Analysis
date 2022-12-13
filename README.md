@@ -1,7 +1,7 @@
 # Stock Market Prediction using Numerical and Textual Analysis
 Objective - Create a hybrid model for stock price or performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines. 
 
-<img align = left height = 25 width = 25 src = "https://cdn-icons-png.flaticon.com/128/2504/2504965.png">Video: [YouTube](https://www.youtube.com/watch?v=2YzfNQNjOk0)</img>
+<img align = left height = 25 width = 25 src = "https://cdn-icons-png.flaticon.com/128/2504/2504965.png">[YouTube](https://www.youtube.com/watch?v=2YzfNQNjOk0)</img>
 
 <img align = left height = 25 width = 25 src = "https://cdn-icons-png.flaticon.com/128/174/174857.png">[LinkedIn](https://www.linkedin.com/in/aditya-gupta-aa7524201/)</img>
 
